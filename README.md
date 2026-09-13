@@ -6,8 +6,7 @@ A lightweight, rate-limit-aware Python utility to fetch and display live tennis 
 
 1. **Python 3.10+**
 2. **LiveTennisAPI Key:** This script requires an active API key. You can sign up and get your API key here:  
-   👉 [Register for LiveTennisAPI](https://livetennisapi.com/?ref=themarconipulse)
-
+   👉 [Register for LiveTennisAPI](https://affiliates.livetennisapi.com/r/themarconipulse)
 ## Installation
 
 ```bash
